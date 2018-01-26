@@ -2,6 +2,7 @@ Bootstrap Hover Dropdown Plugin
 ===============================
 
 [![Join the chat at https://gitter.im/CWSpear/bootstrap-hover-dropdown](https://badges.gitter.im/CWSpear/bootstrap-hover-dropdown.svg)](https://gitter.im/CWSpear/bootstrap-hover-dropdown?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fbootstrap-hover-dropdown.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fbootstrap-hover-dropdown?ref=badge_shield)
 
 ![Current Version](http://img.shields.io/github/tag/cwspear/bootstrap-hover-dropdown.svg?style=flat)
 
@@ -135,3 +136,7 @@ This, of course, does not speak for bugs. If you have a bug, please bring it to 
 ## Me
 
 Follow me on Twitter: [@CWSpear](https://twitter.com/CWSpear) or check out my [blog](http://cameronspear.com/blog/).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fbootstrap-hover-dropdown.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fbootstrap-hover-dropdown?ref=badge_large)
